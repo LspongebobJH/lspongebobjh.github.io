@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jiahang Li"
   avatar           : "profile.png"
-  bio              : "A second-year MPhil student at PolyU Comp"
+  bio              :
   location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "jiahangspongebob.li@connect.polyu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
