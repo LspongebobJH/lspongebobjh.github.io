@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Jiahang Li is currently a second-year MPhil student at The Hong Kong Polytechnic University (PolyU) under the supervision of [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/). Prior to that, he was an intern in Amazon Shanghai AI Lab, working with [Dr. David Wipf](http://www.davidwipf.com/). He was working as a contributor of the [DGL](https://www.dgl.ai/) framework and conducting research on Graph Neural Networks related topics.
+Jiahang Li is currently a second-year MPhil student at The Hong Kong Polytechnic University (PolyU) under the supervision of [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/). Prior to that, he was an intern in Amazon Shanghai AI Lab, working with [Dr. David Wipf](http://www.davidwipf.com/). He was working as a contributor of the [DGL](https://www.dgl.ai/) framework and conducting research on Graph Neural Networks related topics. Before joining the Amazon, He was an intern in GAMMA Lab, BUPT, under the supervision of [Prof. Chuan Shi](http://shichuan.org/). He was working as a contributor of the [OpenHGNN](https://github.com/BUPT-GAMMA/OpenHGNN) framework.
 
 Research Interests
 ======
-Graph Neural Networks and its application.
+My research interests are mainly Graph Neural Networks and its application. I'm recently interested in Large Language Models for Chinese education. 
 
 Education Experience
 ======
