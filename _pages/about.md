@@ -12,7 +12,7 @@ Jiahang Li is currently a second-year MPhil student at The Hong Kong Polytechnic
 
 Research Interests
 ======
-My research interests are mainly Graph Neural Networks and its application. I'm recently interested in Large Language Models for Chinese education. 
+My research interests are mainly Graph Neural Networks and its application. I'm recently interested in Large Language Models for Chinese representation learning. 
 
 Education Experience
 ======
