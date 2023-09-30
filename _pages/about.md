@@ -21,7 +21,7 @@ Education Experience
 
 Publications
 ======
-* On the Initialization of Graph Neural Networks. **Jiahang Li**, Yakun Song, Xiang Song, David Wipf. **ICML 2023**.
-* Vision Loss Estimation using Fundus Photograph for High Myopia. Zipei Yan1, Dong Liang, Linchuan Xu, **Jiahang Li**, Zhengji Liu, Shuai Wang, Jiannong Cao, Chea-su Kee. **MICCAI 2023**.
-* Network in Graph Neural Network. Xiang Song, Runjie Ma, **Jiahang Li**, Muhan Zhang, David Wipf. Pre-print.
+* On the Initialization of Graph Neural Networks. **Jiahang Li^1**, Yakun Song, Xiang Song, David Wipf. **ICML 2023**.
+* Vision Loss Estimation using Fundus Photograph for High Myopia. Zipei Yan, Dong Liang, Linchuan Xu, **Jiahang Li^4**, Zhengji Liu, Shuai Wang, Jiannong Cao, Chea-su Kee. **MICCAI 2023**.
+* Network in Graph Neural Network. Xiang Song, Runjie Ma, **Jiahang Li^3**, Muhan Zhang, David Wipf. Pre-print.
 
