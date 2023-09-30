@@ -12,7 +12,7 @@ I am currently a second-year MPhil student at The Hong Kong Polytechnic Universi
 
 Research Interests
 ======
-My research interests are mainly Graph Neural Networks and its application. I'm recently interested in Large Language Models for Chinese representation learning. 
+My research interests conver Graph Neural Networks and its application.
 
 Education Experience
 ======
