@@ -12,7 +12,7 @@ I am currently a second-year MPhil student at The Hong Kong Polytechnic Universi
 
 Research Interests
 ======
-My research interests conver Graph Neural Networks and its application.
+My research interests cover Graph Neural Networks and its application.
 
 Education Experience
 ======
