@@ -27,5 +27,5 @@ Publications
 
 Service
 ======
-** Journal referee ** SIMODS
+**Journal referee** SIMODS
 
