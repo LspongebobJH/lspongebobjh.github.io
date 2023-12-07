@@ -12,7 +12,7 @@ I am currently a final-year MPhil student at The Hong Kong Polytechnic Universit
 
 Research Interests
 ======
-My research interests cover Deep Learning on Graphs and Natural Language Processing. 
+My research interests cover Deep Learning on Graphs and related applications.
 
 Education Experience
 ======
