@@ -27,5 +27,5 @@ Publications
 
 Service
 ======
-**Journal referee** SIMODS
+**Journal referee** SIAM Journal on Mathematics of Data Science (SIMODS)
 
