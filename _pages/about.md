@@ -21,11 +21,11 @@ Education Experience
 
 Publications
 ======
-* On the Initialization of Graph Neural Networks. **Jiahang Li**, Yakun Song, Xiang Song, David Wipf. **ICML 2023**.
-* Vision Loss Estimation using Fundus Photograph for High Myopia. Zipei Yan, Dong Liang, Linchuan Xu, **Jiahang Li**, Zhengji Liu, Shuai Wang, Jiannong Cao, Chea-su Kee. **MICCAI 2023**.
-* Network in Graph Neural Network. Xiang Song, Runjie Ma, **Jiahang Li**, Muhan Zhang, David Wipf. Pre-print.
+* _4DBInfer: A 4D Benchmarking Toolbox for Graph-Centric Predictive Modeling on Relational DBs._ Minjie Wang, Quan Gan, David Wipf, Zhenkun Cai, Ning Li, Jianheng Tang, Yanlin Zhang, Zizhao Zhang, Zunyao Mao, Yakun Song, Yanbo Wang, **Jiahang Li**, Han Zhang, Guang Yang, Xiao Qin, Chuan Lei, Muhan Zhang, Weinan Zhang, Christos Faloutsos, Zheng Zhang. **NeurIPS 2024 D&B Track**
+* _On the Initialization of Graph Neural Networks._ **Jiahang Li**, Yakun Song, Xiang Song, David Wipf. **ICML 2023**.
+* _Vision Loss Estimation using Fundus Photograph for High Myopia._ Zipei Yan, Dong Liang, Linchuan Xu, **Jiahang Li**, Zhengji Liu, Shuai Wang, Jiannong Cao, Chea-su Kee. **MICCAI 2023**.
+* _Network in Graph Neural Network._ Xiang Song, Runjie Ma, **Jiahang Li**, Muhan Zhang, David Wipf. Pre-print.
 
 Service
 ======
 **Journal referee** SIAM Journal on Mathematics of Data Science (SIMODS)
-
