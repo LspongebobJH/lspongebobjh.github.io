@@ -28,4 +28,9 @@ Publications
 
 Service
 ======
-**Journal referee** SIAM Journal on Mathematics of Data Science (SIMODS)
+* **Journal Reviewer** SIAM Journal on Mathematics of Data Science (SIMODS)
+* **Conference Reviewer** NeurIPS 2025
+
+Awards
+======
+* The abstract "_On the Generation of LLM-based Agents for Automatic and Conversational Biological Data Analysis_" is accepted as poster by **PolyU COMP - HKUST (GZ) INFH Research Student Conference**. 
