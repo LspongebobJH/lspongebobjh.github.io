@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final-year MPhil student at The Hong Kong Polytechnic University (PolyU). Prior to that, I was an intern in Amazon Shanghai AI Lab, working with [Dr. David Wipf](http://www.davidwipf.com/), [Dr. Xiang Song](https://scholar.google.com/citations?user=LyPpCKwAAAAJ&hl=en) and many great colleagues. I was working as a contributor of the [DGL](https://www.dgl.ai/) framework and conducting research on Graph Neural Networks related topics. Before joining the Amazon, I was an intern in GAMMA Lab, BUPT, under the supervision of [Prof. Chuan Shi](http://shichuan.org/). I was working as a contributor of the [OpenHGNN](https://github.com/BUPT-GAMMA/OpenHGNN) framework.
+I am currently a final-year MPhil student at The Hong Kong Polytechnic University (PolyU). I was also fortunate to work with [Dr. Yang Lu](https://engineering.wisc.edu/directory/profile/yang-lu/). Prior to that, I was an intern in Amazon Shanghai AI Lab, working with [Dr. David Wipf](http://www.davidwipf.com/), [Dr. Xiang Song](https://scholar.google.com/citations?user=LyPpCKwAAAAJ&hl=en) and many great colleagues. Before joining the Amazon, I was an intern in GAMMA Lab, BUPT, under the supervision of [Prof. Chuan Shi](http://shichuan.org/).
 
 Research Interests
 ======
-My research interests cover Deep Learning on Graphs and related applications.
+My research interests cover Graph Machine Learning, Large Language Model and their applications.
 
 Education Experience
 ======
@@ -29,7 +29,7 @@ Publications
 Service
 ======
 * **Journal Reviewer** SIAM Journal on Mathematics of Data Science (SIMODS)
-* **Conference Reviewer** NeurIPS 2025
+* **Conference Reviewer** NeurIPS 2025 D&B Track
 
 Awards
 ======
